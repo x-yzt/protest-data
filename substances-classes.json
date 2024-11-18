@@ -1,0 +1,6528 @@
+[
+    {
+        "name": "4F-MDMB-BINACA",
+        "x": 3,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-ADB-PINACA",
+        "x": 5,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-AKB48",
+        "x": 3,
+        "y": 6,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-AMB",
+        "x": 7,
+        "y": 5,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-AMBICA",
+        "x": 7,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-EMB-PINACA",
+        "x": 5,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-MDMB-PICA",
+        "x": 6,
+        "y": 4,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-MDMB-PINACA",
+        "x": 3,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "5F-PY-PINACA",
+        "x": 7,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AB-001",
+        "x": 8,
+        "y": 6,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AB-034",
+        "x": 2,
+        "y": 4,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AB-CHFUPYCA",
+        "x": 5,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AB-CHMINACA",
+        "x": 8,
+        "y": 8,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AB-FUBINACA",
+        "x": 8,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AB-FUBINACA 2-fluorobenzyl isomer",
+        "x": 5,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADAMANTYL-THPINACA",
+        "x": 7,
+        "y": 10,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-4en-PINACA",
+        "x": 3,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-5Br-INACA",
+        "x": 5,
+        "y": 11,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-BUTINACA",
+        "x": 9,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-CHMINACA",
+        "x": 1,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-FUBINACA",
+        "x": 7,
+        "y": 11,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-PINACA isomer 1",
+        "x": 1,
+        "y": 6,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "ADB-PINACA isomer 2",
+        "x": 2,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AKB-48",
+        "x": 7,
+        "y": 13,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AKB-57",
+        "x": 4,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AMB",
+        "x": 0,
+        "y": 4,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AMB-CHMICA",
+        "x": 2,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AMB-FUBICA",
+        "x": 9,
+        "y": 6,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "AMB-FUBINACA",
+        "x": 0,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "APP-CHMINACA (PX3)",
+        "x": 10,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CB-13",
+        "x": 5,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBC",
+        "x": 3,
+        "y": 4,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBD isolate",
+        "x": 6,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBDA",
+        "x": 1,
+        "y": 8,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBDV",
+        "x": 11,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBDVA",
+        "x": 9,
+        "y": 4,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBG",
+        "x": 11,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBGA",
+        "x": 1,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBL",
+        "x": 0,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBLA",
+        "x": 3,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBN",
+        "x": 9,
+        "y": 12,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBNA",
+        "x": 2,
+        "y": 11,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CBV",
+        "x": 7,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-4CN-BINACA",
+        "x": 10,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-5F-P7AICA",
+        "x": 0,
+        "y": 6,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-5F-PICA",
+        "x": 12,
+        "y": 8,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-5F-PINACA",
+        "x": 8,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-BICA",
+        "x": 8,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-PICA",
+        "x": 1,
+        "y": 10,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-PINACA",
+        "x": -1,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "CUMYL-THPINACA",
+        "x": 13,
+        "y": 10,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Cannabidiol",
+        "x": 7,
+        "y": -1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Tetrahydrocannabinol",
+        "x": 4,
+        "y": -1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Diethyl-thiambutene",
+        "x": -1,
+        "y": 5,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Diethylthiambutene",
+        "x": 13,
+        "y": 12,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Dimethyl-thiambutene",
+        "x": 5,
+        "y": -2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Dioxaphteyl-thiambutene",
+        "x": 10,
+        "y": 11,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "EMB-FUBINACA",
+        "x": 10,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Ethylmethyl-thiambutene",
+        "x": 12,
+        "y": 12,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "FUB-144",
+        "x": 4,
+        "y": 11,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "FUB-AKB48",
+        "x": 2,
+        "y": -2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "FUB-AMB",
+        "x": 5,
+        "y": 13,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "FUB-NPB-22",
+        "x": 0,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "FUB-PB22",
+        "x": -2,
+        "y": 3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-018",
+        "x": 8,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-019",
+        "x": 10,
+        "y": -1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-073",
+        "x": 1,
+        "y": 12,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-073 (Spice)",
+        "x": 12,
+        "y": 5,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-081",
+        "x": 8,
+        "y": -1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-122",
+        "x": 0,
+        "y": 9,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-200",
+        "x": 14,
+        "y": 8,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-203",
+        "x": 4,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-210",
+        "x": 12,
+        "y": 2,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-250",
+        "x": 9,
+        "y": 13,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-307",
+        "x": 5,
+        "y": -3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-308",
+        "x": 1,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-368",
+        "x": 7,
+        "y": -4,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "JWH-369",
+        "x": 0,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "MDMB-CHMCZCA",
+        "x": 5,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "MDMB-CHMICA",
+        "x": 0,
+        "y": 12,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "MO-CHMINACA",
+        "x": 6,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Marinol",
+        "x": -2,
+        "y": 1,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "THCA",
+        "x": -1,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "THCP",
+        "x": 7,
+        "y": -3,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "THCV",
+        "x": 13,
+        "y": 5,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Tetrahydrocannabinol (THC, D9-THC, Cannabis, Hash, Marijuana, Weed)",
+        "x": 0,
+        "y": 10,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Tetrahydrocannabinol (THC, D9-THC, Cannabis, Marijuana, Weed)",
+        "x": -3,
+        "y": 7,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "URB-597",
+        "x": 0,
+        "y": 13,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "URB-602",
+        "x": 1,
+        "y": 13,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "URB-754",
+        "x": -2,
+        "y": 0,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "Zolpidem",
+        "x": 3,
+        "y": 13,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": [
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "HUPERZINE-A",
+        "x": 10,
+        "y": 12,
+        "color": "#008000",
+        "category": "Cannabinoids",
+        "classes": []
+    },
+    {
+        "name": "\u0391MT",
+        "x": -1,
+        "y": 24,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic",
+            "Entactogen"
+        ]
+    },
+    {
+        "name": "4-AcO-DET",
+        "x": 0,
+        "y": 24,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-AcO-DPT",
+        "x": 3,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-AcO-MET",
+        "x": 2,
+        "y": 22,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-DET",
+        "x": 1,
+        "y": 21,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-DPT",
+        "x": 1,
+        "y": 22,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-DiPT",
+        "x": 0,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-EPT",
+        "x": 2,
+        "y": 19,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-MET",
+        "x": -1,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-MPT",
+        "x": 2,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-HO-MiPT",
+        "x": 0,
+        "y": 18,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-MeO-MiPT",
+        "x": -1,
+        "y": 22,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-DALT",
+        "x": 4,
+        "y": 18,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-DPT",
+        "x": 6,
+        "y": 19,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-DiBF",
+        "x": 2,
+        "y": 25,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-DiPT",
+        "x": 1,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-EiPT",
+        "x": 2,
+        "y": 24,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-MET",
+        "x": 0,
+        "y": 25,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-MiPT",
+        "x": 3,
+        "y": 21,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-NIPT",
+        "x": 6,
+        "y": 16,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Ayahuasca",
+        "x": 3,
+        "y": 23,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Bufotenin",
+        "x": 2,
+        "y": 17,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Changa",
+        "x": -1,
+        "y": 26,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DET",
+        "x": -2,
+        "y": 15,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DPT",
+        "x": 3,
+        "y": 25,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DiPT",
+        "x": -2,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Dimemebfe",
+        "x": -1,
+        "y": 17,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "EPT",
+        "x": -3,
+        "y": 24,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Ibogaine",
+        "x": 7,
+        "y": 19,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "MET",
+        "x": 4,
+        "y": 16,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "MPT",
+        "x": 0,
+        "y": 28,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "MiPT",
+        "x": 0,
+        "y": 17,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "PiPT",
+        "x": 6,
+        "y": 21,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Psilocin",
+        "x": 7,
+        "y": 24,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Psilocybe Cubensis Ethanolic Tincture",
+        "x": 1,
+        "y": 25,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Psilocybin mushrooms",
+        "x": 4,
+        "y": 27,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "YOPO",
+        "x": -4,
+        "y": 23,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1B-LSD",
+        "x": -4,
+        "y": 18,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1D-LSD",
+        "x": 7,
+        "y": 21,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1P-ETH-LAD",
+        "x": 2,
+        "y": 26,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1P-LSD",
+        "x": 2,
+        "y": 29,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1V-LSD",
+        "x": -2,
+        "y": 23,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1cP-AL-LAD",
+        "x": 8,
+        "y": 17,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1cP-LSD",
+        "x": 1,
+        "y": 15,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "1cP-MiPLA",
+        "x": 5,
+        "y": 28,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "AL-LAD",
+        "x": -2,
+        "y": 26,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "ALD-52",
+        "x": 9,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "ETH-LAD",
+        "x": 0,
+        "y": 15,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "LAE-32",
+        "x": -4,
+        "y": 26,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "LSA",
+        "x": 2,
+        "y": 15,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "LSD",
+        "x": 2,
+        "y": 14,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "LSM-775",
+        "x": -5,
+        "y": 16,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "LSZ",
+        "x": 9,
+        "y": 19,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "MiPLA",
+        "x": -4,
+        "y": 19,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "PARGY-LAD",
+        "x": 7,
+        "y": 18,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "PRO-LAD",
+        "x": -5,
+        "y": 20,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Lysergamides",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "TMA-2",
+        "x": -4,
+        "y": 15,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "TMA-6",
+        "x": -3,
+        "y": 21,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "3C-E",
+        "x": 4,
+        "y": 14,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "3C-P",
+        "x": -6,
+        "y": 17,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DOC",
+        "x": 10,
+        "y": 19,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DOI",
+        "x": 7,
+        "y": 25,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DOM",
+        "x": -2,
+        "y": 28,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Substituted amphetamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2,5-DMA",
+        "x": 1,
+        "y": 29,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Stimulants",
+            "Amphetamine",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Efavirenz",
+        "x": -5,
+        "y": 22,
+        "color": "#800080",
+        "category": "Psychedelics",
+        "classes": [
+            "Psychedelic",
+            "Benzoxazine"
+        ]
+    },
+    {
+        "name": "2-Me-DMT",
+        "x": 1,
+        "y": 28,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2-MeO-DMT",
+        "x": 9,
+        "y": 25,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-AcO-DMT",
+        "x": 4,
+        "y": 32,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-Br-DMT",
+        "x": 3,
+        "y": 26,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-Bromo-DMT",
+        "x": 5,
+        "y": 27,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-Cl-DMT",
+        "x": 6,
+        "y": 27,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-MeO-DMT",
+        "x": 6,
+        "y": 30,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Bufotenin (5-HO-DMT)",
+        "x": 1,
+        "y": 30,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DMT",
+        "x": 4,
+        "y": 24,
+        "color": "#4B0082",
+        "category": "DMT Psychedelics",
+        "classes": [
+            "Substituted tryptamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "NM-2-AI",
+        "x": 26,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Aminoindane",
+            "Amphetamine",
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2,6-Dimethylamphetamine",
+        "x": 31,
+        "y": 3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "2-BrA (2-Bromoamphetamine)",
+        "x": 31,
+        "y": 6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "2-BrMA (2-Bromomethamphetamine)",
+        "x": 29,
+        "y": 5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "2-FA (2-fluoroamphetamine, 2-fmp)",
+        "x": 28,
+        "y": 1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3,4-Dimethylamphetamine",
+        "x": 31,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3,5-Dimethylamphetamine",
+        "x": 25,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3-Bromoamphetamine",
+        "x": 27,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3-Bromomethamphetamine",
+        "x": 25,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3-FA (3-Fluoroamphetamine, PAL-353)",
+        "x": 24,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3-MA (3-Methoxyamphetamine)",
+        "x": 27,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3-MMA (3-methyl-methamphetamine)",
+        "x": 30,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "4-BA (4-Bromoamphetamine)",
+        "x": 33,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "4-BMA (Bromomethamphetamine)",
+        "x": 25,
+        "y": 5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "4-Chloromethamphetamine",
+        "x": 31,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "4-FEA",
+        "x": 32,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "4-Fluoroethamphetamine (4-FEA)",
+        "x": 23,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "4-MTA",
+        "x": 29,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "Acetylamphetamine",
+        "x": 25,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "Amphetamine",
+        "x": 29,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "Dexedrine",
+        "x": 34,
+        "y": 3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "Dimethylamphetamine",
+        "x": 28,
+        "y": 5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "Propylhexedrine",
+        "x": 24,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Cycloalkylamines",
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "3-FEA",
+        "x": 28,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Entactogen"
+        ]
+    },
+    {
+        "name": "3-FMA",
+        "x": 28,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Entactogen"
+        ]
+    },
+    {
+        "name": "Prolintane",
+        "x": 33,
+        "y": 6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Substituted pyrrolidines"
+        ]
+    },
+    {
+        "name": "5-APB",
+        "x": 31,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Substituted benzofurans"
+        ]
+    },
+    {
+        "name": "5-MAPB",
+        "x": 34,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Substituted benzofurans"
+        ]
+    },
+    {
+        "name": "6-APB",
+        "x": 28,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Substituted benzofurans"
+        ]
+    },
+    {
+        "name": "A-PHP",
+        "x": 33,
+        "y": 1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Substituted cathinones",
+            "Stimulants",
+            "Substituted pyrrolidines",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "A-PVP",
+        "x": 23,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Substituted cathinones",
+            "Stimulants",
+            "Substituted pyrrolidines",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Fenethylline",
+        "x": 27,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Xanthines"
+        ]
+    },
+    {
+        "name": "2-FA",
+        "x": 27,
+        "y": -4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "2-FEA",
+        "x": 26,
+        "y": 6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "2-FMA",
+        "x": 31,
+        "y": 8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "3-FA",
+        "x": 23,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "3-FPM",
+        "x": 24,
+        "y": 3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "Phenylmorpholine"
+        ]
+    },
+    {
+        "name": "4-FA",
+        "x": 33,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "4-FMA",
+        "x": 26,
+        "y": 9,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "Methamphetamine",
+        "x": 30,
+        "y": -3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "Vyvanse",
+        "x": 30,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines"
+        ]
+    },
+    {
+        "name": "Ephylone",
+        "x": 32,
+        "y": 8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Entactogen",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Mephedrone",
+        "x": 34,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Substituted cathinones",
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "3-MMC",
+        "x": 31,
+        "y": -3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "ETH-CAT",
+        "x": 25,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Hexedrone",
+        "x": 24,
+        "y": 6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Hexen",
+        "x": 34,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Methylone",
+        "x": 26,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Mexedrone",
+        "x": 23,
+        "y": 6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "NEP",
+        "x": 27,
+        "y": 11,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Pentedrone",
+        "x": 23,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cathinone"
+        ]
+    },
+    {
+        "name": "Dehydroxyfluorafinil",
+        "x": 28,
+        "y": 11,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Eugeroics",
+            "Stimulants",
+            "Benzhydryl",
+            "Nootropic"
+        ]
+    },
+    {
+        "name": "Theacrine",
+        "x": 24,
+        "y": 8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Purine alkaloid",
+            "Stimulants",
+            "Xanthines",
+            "Nootropic"
+        ]
+    },
+    {
+        "name": "3,4-CTMP",
+        "x": 35,
+        "y": 1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "4F-EPH",
+        "x": 33,
+        "y": 5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "4F-MPH",
+        "x": 33,
+        "y": -3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "Armodafinil",
+        "x": 36,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Benzhydryl",
+            "Eugeroics"
+        ]
+    },
+    {
+        "name": "Ethylphenidate",
+        "x": 21,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "HDMP-28",
+        "x": 25,
+        "y": 11,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "Isopropylphenidate",
+        "x": 27,
+        "y": 1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "Methylphenidate",
+        "x": 33,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted phenidates"
+        ]
+    },
+    {
+        "name": "Oxiracetam",
+        "x": 21,
+        "y": 5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Racetams",
+            "Nootropic"
+        ]
+    },
+    {
+        "name": "Phenylpiracetam",
+        "x": 35,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Racetams",
+            "Nootropic"
+        ]
+    },
+    {
+        "name": "Bromantane",
+        "x": 29,
+        "y": -5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Adamantanes",
+            "Nootropic"
+        ]
+    },
+    {
+        "name": "8-Chlorotheophylline",
+        "x": 23,
+        "y": 8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Xanthines"
+        ]
+    },
+    {
+        "name": "2-AI",
+        "x": 28,
+        "y": 12,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Aminoindane",
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Cocaine",
+        "x": 26,
+        "y": -4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted tropanes"
+        ]
+    },
+    {
+        "name": "RTI-111",
+        "x": 34,
+        "y": 9,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted tropanes"
+        ]
+    },
+    {
+        "name": "2,3-DMMC",
+        "x": 20,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2-DPMP",
+        "x": 30,
+        "y": 12,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Substituted piperidines",
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2-MAPB",
+        "x": 27,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2-MEC",
+        "x": 36,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2-MMC",
+        "x": 32,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2-MPPP",
+        "x": 36,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "2-bromo-4,5-MDMA",
+        "x": 27,
+        "y": -6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3,4-DMMC",
+        "x": 21,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3,4-methylenedioxy-N-propylcathinone (Propylone)",
+        "x": 30,
+        "y": -5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3-CEC (3-Chloroethcathinone)",
+        "x": 38,
+        "y": 8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3-CMC",
+        "x": 21,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3-FMC",
+        "x": 34,
+        "y": -4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3-MEC",
+        "x": 20,
+        "y": 5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "3-MeOMC",
+        "x": 34,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-CBC",
+        "x": 24,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Cannabinoid"
+        ]
+    },
+    {
+        "name": "4-CEC (4-Chloroethcathinone)",
+        "x": 22,
+        "y": 9,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-CMC",
+        "x": 21,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-EEC (4-Ethylethcathinone)",
+        "x": 28,
+        "y": 15,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-EMC",
+        "x": 34,
+        "y": -6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-FMC",
+        "x": 32,
+        "y": -4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-Fluorococaine",
+        "x": 36,
+        "y": 2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-Fluoropentedrone",
+        "x": 37,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-HO-MEC (4-Hydroxymethcathinone)",
+        "x": 27,
+        "y": -8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-MEC",
+        "x": 36,
+        "y": -4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-MPD",
+        "x": 22,
+        "y": -3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-MeMAPB (4-Methylbuphedrone)",
+        "x": 30,
+        "y": -6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4-Methylephedrine (4-MMC metabolite)",
+        "x": 31,
+        "y": 1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "4F-NEB",
+        "x": 38,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "5-DBFPV",
+        "x": 24,
+        "y": -3,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "5-EAPB",
+        "x": 36,
+        "y": 9,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "5-Methylethylone",
+        "x": 20,
+        "y": 0,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "6-EAPB",
+        "x": 24,
+        "y": -5,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "6-MAPB",
+        "x": 36,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "A-PIHP",
+        "x": 33,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Buphedrone",
+        "x": 32,
+        "y": -6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Coronaridine",
+        "x": 29,
+        "y": -7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Dimethyl-Cathinone",
+        "x": 22,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Ethylone",
+        "x": 26,
+        "y": -6,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "HMDMA",
+        "x": 34,
+        "y": 10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Khat",
+        "x": 19,
+        "y": -1,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "MCPP",
+        "x": 30,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted piperazines"
+        ]
+    },
+    {
+        "name": "MDPHP",
+        "x": 31,
+        "y": 14,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "MPA",
+        "x": 38,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants",
+            "Thiophene"
+        ]
+    },
+    {
+        "name": "Methcathinone",
+        "x": 31,
+        "y": 16,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "N,N-DMC (Dimethylcathinone)",
+        "x": 31,
+        "y": -10,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "NEB",
+        "x": 30,
+        "y": -8,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Nitracaine",
+        "x": 20,
+        "y": 7,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "PFBT",
+        "x": 27,
+        "y": -2,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Pentylone",
+        "x": 25,
+        "y": 15,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Pseudoephrine",
+        "x": 38,
+        "y": 4,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Troparil",
+        "x": 33,
+        "y": -11,
+        "color": "#FF0000",
+        "category": "Stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "25B-NBOH",
+        "x": 18,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25B-NBOH (nboh-2cb, 2cb-nboh, 2c-b-nboh)",
+        "x": 13,
+        "y": 17,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25B-NBOMe",
+        "x": 18,
+        "y": 23,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25C-NBF",
+        "x": 18,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25C-NBOH",
+        "x": 16,
+        "y": 19,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25C-NBOMe",
+        "x": 17,
+        "y": 15,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25D-NBOMe",
+        "x": 15,
+        "y": 14,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25E-NBOH",
+        "x": 16,
+        "y": 17,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25E-NBOMe",
+        "x": 17,
+        "y": 14,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25G-NBOMe",
+        "x": 23,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25H-NBOMe",
+        "x": 23,
+        "y": 19,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25I-NBF",
+        "x": 16,
+        "y": 14,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25I-NBMD",
+        "x": 19,
+        "y": 22,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25I-NBOH",
+        "x": 15,
+        "y": 20,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25I-NBOMe",
+        "x": 19,
+        "y": 17,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25I-NBOMe-metabolite",
+        "x": 23,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25N-NBOMe",
+        "x": 22,
+        "y": 17,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25P-NBOMe",
+        "x": 13,
+        "y": 24,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25T-2-NBOMe",
+        "x": 22,
+        "y": 15,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25T-4-NBOMe",
+        "x": 23,
+        "y": 14,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25T-NBOMe",
+        "x": 22,
+        "y": 23,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "25iP-NBOMe",
+        "x": 11,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-B",
+        "x": 13,
+        "y": 23,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-B-AN",
+        "x": 22,
+        "y": 12,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-B-FLY",
+        "x": 17,
+        "y": 21,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-B-FLY-NBOMe",
+        "x": 12,
+        "y": 24,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-BZ",
+        "x": 22,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-C",
+        "x": 17,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-D",
+        "x": 16,
+        "y": 21,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-E",
+        "x": 19,
+        "y": 15,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-G",
+        "x": 13,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-H",
+        "x": 21,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-H (DMPEA)",
+        "x": 21,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-I",
+        "x": 19,
+        "y": 20,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-IP",
+        "x": 15,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-N",
+        "x": 16,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-P",
+        "x": 21,
+        "y": 20,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-P-NBOMe",
+        "x": 20,
+        "y": 23,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T",
+        "x": 17,
+        "y": 19,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-2",
+        "x": 16,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-2-NBOMe",
+        "x": 12,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-21",
+        "x": 16,
+        "y": 23,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-4",
+        "x": 17,
+        "y": 24,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-4-NBOMe",
+        "x": 15,
+        "y": 11,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-7",
+        "x": 21,
+        "y": 10,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-T-7-NBOMe",
+        "x": 20,
+        "y": 25,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "2C-TFM",
+        "x": 22,
+        "y": 21,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "30C-NBOMe",
+        "x": 25,
+        "y": 20,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-AcO-DiPT",
+        "x": 18,
+        "y": 26,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "4-AcO-MiPT",
+        "x": 19,
+        "y": 12,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "45B-NBOMe",
+        "x": 16,
+        "y": 26,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "5-APB NBOME",
+        "x": 12,
+        "y": 14,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "ALEPH-2",
+        "x": 12,
+        "y": 20,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Allylescaline",
+        "x": 12,
+        "y": 19,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "BOD",
+        "x": 13,
+        "y": 14,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Bromo-DragonFLY",
+        "x": 20,
+        "y": 17,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "C30-NBOMe",
+        "x": 15,
+        "y": 19,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "DOPR",
+        "x": 15,
+        "y": 25,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Escaline",
+        "x": 24,
+        "y": 17,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "HOT-2",
+        "x": 13,
+        "y": 20,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "HOT-7",
+        "x": 9,
+        "y": 19,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Mescaline",
+        "x": 25,
+        "y": 12,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Methallylescaline",
+        "x": 22,
+        "y": 24,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "N-Me-2C-H",
+        "x": 17,
+        "y": 12,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Proscaline",
+        "x": 19,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "b-methoxy-2C-D",
+        "x": 12,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "\u0392k-2C-B",
+        "x": 11,
+        "y": 24,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "\u03b2H-2C-B",
+        "x": 15,
+        "y": 22,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "\u03b2k-2C-I",
+        "x": 24,
+        "y": 18,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Substituted phenethylamines",
+            "Psychedelic"
+        ]
+    },
+    {
+        "name": "Adderall",
+        "x": 23,
+        "y": 21,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Stimulants",
+            "Amphetamine",
+            "Substituted phenethylamines"
+        ]
+    },
+    {
+        "name": "Dextroamphetamine",
+        "x": 10,
+        "y": 21,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Stimulants",
+            "Amphetamine",
+            "Substituted phenethylamines"
+        ]
+    },
+    {
+        "name": "6-APDB",
+        "x": 23,
+        "y": 27,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Stimulants",
+            "Substituted phenethylamines",
+            "Substituted amphetamines",
+            "Entactogen",
+            "Substituted benzofurans"
+        ]
+    },
+    {
+        "name": "Tyrosine",
+        "x": 14,
+        "y": 13,
+        "color": "#FF69B4",
+        "category": "Stimulant Psychedelics",
+        "classes": [
+            "Amino acid",
+            "Stimulants",
+            "Substituted phenethylamines"
+        ]
+    },
+    {
+        "name": "MDPV",
+        "x": 20,
+        "y": 11,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted pyrrolidines",
+            "Substituted cathinones",
+            "Entactogen",
+            "MDxx"
+        ]
+    },
+    {
+        "name": "MDA",
+        "x": 18,
+        "y": 11,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "Stimulants",
+            "Entactogen",
+            "Psychedelic",
+            "MDxx"
+        ]
+    },
+    {
+        "name": "Butylone",
+        "x": 19,
+        "y": 11,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "Substituted cathinones",
+            "Stimulants",
+            "Cathinone",
+            "MDxx"
+        ]
+    },
+    {
+        "name": "MDAI",
+        "x": 20,
+        "y": 12,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "Entactogen",
+            "MDxx"
+        ]
+    },
+    {
+        "name": "MDEA",
+        "x": 21,
+        "y": 12,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "Entactogen",
+            "MDxx"
+        ]
+    },
+    {
+        "name": "MDMA",
+        "x": 18,
+        "y": 9,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "Stimulants",
+            "Substituted amphetamines",
+            "MDxx"
+        ]
+    },
+    {
+        "name": "5-Me-MDA",
+        "x": 20,
+        "y": 14,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "MDxx"
+        ]
+    },
+    {
+        "name": "C-MDA",
+        "x": 18,
+        "y": 13,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "MDxx"
+        ]
+    },
+    {
+        "name": "MMDA",
+        "x": 22,
+        "y": 13,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "MDxx"
+        ]
+    },
+    {
+        "name": "N-Me-bk-MMDA-2",
+        "x": 16,
+        "y": 8,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "MDxx"
+        ]
+    },
+    {
+        "name": "bk-MDA",
+        "x": 23,
+        "y": 11,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "MDxx"
+        ]
+    },
+    {
+        "name": "bk-MDEA (Ethylone)",
+        "x": 24,
+        "y": 12,
+        "color": "#FFA500",
+        "category": "MDxx Stimulants",
+        "classes": [
+            "MDxx"
+        ]
+    },
+    {
+        "name": "Caffeine",
+        "x": 15,
+        "y": 7,
+        "color": "#FA8072",
+        "category": "Natural stimulants",
+        "classes": [
+            "Stimulants",
+            "Xanthines"
+        ]
+    },
+    {
+        "name": "Cathinone",
+        "x": 18,
+        "y": 7,
+        "color": "#FA8072",
+        "category": "Natural stimulants",
+        "classes": [
+            "Stimulants"
+        ]
+    },
+    {
+        "name": "Ephedrine",
+        "x": 15,
+        "y": 3,
+        "color": "#FA8072",
+        "category": "Natural stimulants",
+        "classes": [
+            "Stimulants",
+            "Amphetamine"
+        ]
+    },
+    {
+        "name": "Taurine",
+        "x": 22,
+        "y": 8,
+        "color": "#FA8072",
+        "category": "Natural stimulants",
+        "classes": []
+    },
+    {
+        "name": "Theobromine",
+        "x": 17,
+        "y": 7,
+        "color": "#FA8072",
+        "category": "Natural stimulants",
+        "classes": []
+    },
+    {
+        "name": "Yohimbine",
+        "x": 15,
+        "y": 0,
+        "color": "#FA8072",
+        "category": "Natural stimulants",
+        "classes": []
+    },
+    {
+        "name": "Adrafinil",
+        "x": 21,
+        "y": 0,
+        "color": "#FFD700",
+        "category": "Pharmaceutical stimulants",
+        "classes": [
+            "Eugeroics",
+            "Stimulants",
+            "Benzhydryl",
+            "Nootropic"
+        ]
+    },
+    {
+        "name": "Modafinil",
+        "x": 20,
+        "y": 2,
+        "color": "#FFD700",
+        "category": "Pharmaceutical stimulants",
+        "classes": [
+            "Stimulants",
+            "Benzhydryl",
+            "Eugeroics"
+        ]
+    },
+    {
+        "name": "Bupropion",
+        "x": 20,
+        "y": 3,
+        "color": "#FFD700",
+        "category": "Pharmaceutical stimulants",
+        "classes": []
+    },
+    {
+        "name": "Phentermine",
+        "x": 21,
+        "y": 4,
+        "color": "#FFD700",
+        "category": "Pharmaceutical stimulants",
+        "classes": []
+    },
+    {
+        "name": "Baclofen",
+        "x": -8,
+        "y": -8,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Gabapentinoids",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "F-Phenibut",
+        "x": -19,
+        "y": -2,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Gabapentinoids",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Gabapentin",
+        "x": -6,
+        "y": 0,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Gabapentinoids",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Phenibut",
+        "x": -18,
+        "y": 1,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Gabapentinoids",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Pregabalin",
+        "x": -16,
+        "y": 5,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Gabapentinoids",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Eszopiclone",
+        "x": -13,
+        "y": 5,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Hypnotic",
+            "Hallucinogens",
+            "Cyclopyrrolone",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Zopiclone",
+        "x": -7,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Hallucinogens",
+            "Cyclopyrrolone",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Gaboxadol",
+        "x": -10,
+        "y": 6,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Tetrahydroisoxazolopyridine",
+            "Tetrahydroisoxazole",
+            "Depressant",
+            "Hallucinogens"
+        ]
+    },
+    {
+        "name": "2M2B",
+        "x": -21,
+        "y": 0,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Alcohol",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Alcohol",
+        "x": -12,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Alcohol",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "1,4-Butanediol",
+        "x": -4,
+        "y": 3,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Alkanediol",
+            "Diol",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Cake",
+        "x": -8,
+        "y": 6,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Carisoprodol",
+        "x": -11,
+        "y": -7,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Carbamate",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "GBL",
+        "x": -18,
+        "y": 3,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Lactone",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "GHB",
+        "x": -12,
+        "y": 7,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Butyric acid",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Methaqualone",
+        "x": -6,
+        "y": 6,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Depressant",
+            "Quinazolinone"
+        ]
+    },
+    {
+        "name": "Nicotine",
+        "x": -17,
+        "y": -1,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Stimulants",
+            "Pyridine",
+            "Substituted pyrrolidines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Progesterone",
+        "x": -5,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Steroid",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Tizanidine",
+        "x": -9,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Depressants",
+        "classes": [
+            "Imidazoline",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Desomorphine",
+        "x": -12,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Substituted morphinans",
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Naloxone",
+        "x": -13,
+        "y": -8,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Substituted morphinans",
+            "Opioids"
+        ]
+    },
+    {
+        "name": "3-HO-PCE",
+        "x": -13,
+        "y": -10,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "3-MeO-PCPY",
+        "x": -12,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "4-Fluorobutyrfentanyl",
+        "x": -10,
+        "y": -10,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "4-MeO-Butyrfentanyl",
+        "x": -10,
+        "y": -8,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "4Cl-iBF (p-Chloro-isobutyrylfentanyl)",
+        "x": -14,
+        "y": -7,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "6-MDDM",
+        "x": -12,
+        "y": -13,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "AH-7921",
+        "x": -13,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Acetylfentanyl",
+        "x": -16,
+        "y": -7,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Acrylfentanyl",
+        "x": -15,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Benzodioxole-Fentanyl",
+        "x": -9,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Benzylfentanyl",
+        "x": -14,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Bromadol",
+        "x": -16,
+        "y": -10,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Buprenorphine",
+        "x": -11,
+        "y": -7,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Butyrfentanyl",
+        "x": -10,
+        "y": -12,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Clonidine",
+        "x": -12,
+        "y": -6,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Clonitazene",
+        "x": -14,
+        "y": -3,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Codeine",
+        "x": -8,
+        "y": -8,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Cyclobenzaprine",
+        "x": -11,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Cyclopentyl-Fentanyl",
+        "x": -16,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Dextromoramide",
+        "x": -10,
+        "y": -3,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Dextropropoxyphene",
+        "x": -16,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Dihydrocodeine",
+        "x": -9,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Dipipanone",
+        "x": -10,
+        "y": -6,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Doxylamine",
+        "x": -13,
+        "y": -13,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Ethylmorphine",
+        "x": -15,
+        "y": -10,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Etodesnitazene",
+        "x": -9,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Fentanyl",
+        "x": -12,
+        "y": -2,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Furanylfentanyl",
+        "x": -15,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Heroin",
+        "x": -10,
+        "y": -13,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Hydrocodone",
+        "x": -12,
+        "y": -14,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Hydromorphone",
+        "x": -8,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Hydroxyzine",
+        "x": -7,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Isomethadone",
+        "x": -8,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Isotonitazene",
+        "x": -8,
+        "y": -13,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Ketobemidone",
+        "x": -8,
+        "y": -6,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Kratom",
+        "x": -16,
+        "y": -8,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Loprazolam",
+        "x": -15,
+        "y": -3,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "MT-45",
+        "x": -16,
+        "y": -13,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Methadone",
+        "x": -6,
+        "y": -9,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Methoxyacetyl-Fentanyl",
+        "x": -15,
+        "y": -14,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Metonitazene",
+        "x": -6,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Midazolam",
+        "x": -14,
+        "y": -1,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Morphine",
+        "x": -7,
+        "y": -7,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "N-Desethylisotonitazene",
+        "x": -17,
+        "y": -8,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "N-Piperidinyl Etonitazene (Etonitazepipne)",
+        "x": -9,
+        "y": -14,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "N-desethyl Etonitazene",
+        "x": -16,
+        "y": -3,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Nicomorphine",
+        "x": -18,
+        "y": -5,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Norflurazepam",
+        "x": -7,
+        "y": -13,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "O-Desmethyltramadol",
+        "x": -6,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Oxycodone",
+        "x": -10,
+        "y": -14,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Oxymorphone",
+        "x": -7,
+        "y": -15,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "PST",
+        "x": -7,
+        "y": -4,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Parafluorofentanyl",
+        "x": -9,
+        "y": -16,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Pentazocine",
+        "x": -11,
+        "y": -16,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Pethidine",
+        "x": -6,
+        "y": -4,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Propoxyphene",
+        "x": -9,
+        "y": -3,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Protonitazene",
+        "x": -17,
+        "y": -16,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Sufentanil",
+        "x": -9,
+        "y": -17,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Tapentadol",
+        "x": -17,
+        "y": -15,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Tetrahydrofuran-Fentanyl",
+        "x": -10,
+        "y": -1,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Tianeptine",
+        "x": -13,
+        "y": -14,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Tilidine",
+        "x": -6,
+        "y": -1,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Tramadol",
+        "x": -15,
+        "y": 0,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "U-47700",
+        "x": -4,
+        "y": -7,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "U-51754",
+        "x": -5,
+        "y": 0,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Valeryfentanyl",
+        "x": -12,
+        "y": -16,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Valerylfentanyl",
+        "x": -5,
+        "y": -6,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "W-15",
+        "x": -13,
+        "y": -11,
+        "color": "#0000FF",
+        "category": "Opioids",
+        "classes": [
+            "Opioids"
+        ]
+    },
+    {
+        "name": "Atomoxetine",
+        "x": 18,
+        "y": -12,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Citalopram",
+        "x": 20,
+        "y": -11,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Dapoxetine",
+        "x": 17,
+        "y": -13,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Doxepin HCl",
+        "x": 18,
+        "y": -11,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Duloxetine",
+        "x": 17,
+        "y": -12,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Escitalopram",
+        "x": 16,
+        "y": -12,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Fluoxetine",
+        "x": 14,
+        "y": -11,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Paroxetine",
+        "x": 17,
+        "y": -10,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Prazepam",
+        "x": 16,
+        "y": -13,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "SSRI"
+        ]
+    },
+    {
+        "name": "Cyclazodone",
+        "x": 11,
+        "y": -7,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": [
+            "Stimulants",
+            "Substituted aminorexes",
+            "4-oxazolidinone"
+        ]
+    },
+    {
+        "name": "Trazodone",
+        "x": 18,
+        "y": -8,
+        "color": "#8A2BE2",
+        "category": "Antidepressants",
+        "classes": []
+    },
+    {
+        "name": "Prochlorperazine",
+        "x": 17,
+        "y": -11,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": [
+            "Phenothiazine",
+            "Antipsychotic"
+        ]
+    },
+    {
+        "name": "Haloperidol",
+        "x": 16,
+        "y": -10,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": [
+            "Substituted piperidines",
+            "Antipsychotic",
+            "Butyrophenone"
+        ]
+    },
+    {
+        "name": "Quetiapine",
+        "x": 13,
+        "y": -6,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": [
+            "Antipsychotic",
+            "Dibenzothiazepine"
+        ]
+    },
+    {
+        "name": "Risperidone",
+        "x": 18,
+        "y": -13,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": [
+            "Benzisoxazole",
+            "Antipsychotic"
+        ]
+    },
+    {
+        "name": "1-(2,3,4-Trimethoxybenzyl) piperazine",
+        "x": 22,
+        "y": -8,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "1-(2,5-Dimethoxybenzyl) piperazine",
+        "x": 16,
+        "y": -11,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "3-MPM (3-Methylphenmetrazine)",
+        "x": 16,
+        "y": 0,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "4-MPH (Mephenmetrazine)",
+        "x": 22,
+        "y": -5,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Alimemazine",
+        "x": 21,
+        "y": -13,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Chlorpromazine HCl",
+        "x": 18,
+        "y": -9,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Ethoheptazine",
+        "x": 19,
+        "y": -4,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Isophenmetrazine",
+        "x": 14,
+        "y": -10,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Mephenmetrazine",
+        "x": 16,
+        "y": -6,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Phenetrazine",
+        "x": 15,
+        "y": -9,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Phenmetetrazine precursor",
+        "x": 10,
+        "y": -4,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Phenmetrazine",
+        "x": 11,
+        "y": -3,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Proheptazine",
+        "x": 18,
+        "y": -5,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Thioridazine",
+        "x": 16,
+        "y": -13,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Trifluoperazine",
+        "x": 8,
+        "y": -3,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Triflupromazine",
+        "x": 11,
+        "y": -5,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Viloxazine",
+        "x": 15,
+        "y": 0,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "Xylazine",
+        "x": 15,
+        "y": -3,
+        "color": "#8A2BE2",
+        "category": "Antipsychotics",
+        "classes": []
+    },
+    {
+        "name": "3-OH-Phenazepam",
+        "x": 2,
+        "y": -13,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "4-Chlorodiazepam",
+        "x": 6,
+        "y": -16,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Adinazolam",
+        "x": 2,
+        "y": -9,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Alprazolam",
+        "x": 0,
+        "y": -17,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Bentazepam",
+        "x": 1,
+        "y": -9,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Bromazepam",
+        "x": 7,
+        "y": -7,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Bromazolam",
+        "x": -3,
+        "y": -14,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Bromonordiazepam",
+        "x": 1,
+        "y": -13,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Brotizolam",
+        "x": -1,
+        "y": -11,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Camazepam",
+        "x": -2,
+        "y": -12,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Cinolazepam",
+        "x": 7,
+        "y": -18,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Clonazepam",
+        "x": 3,
+        "y": -8,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Clonazolam",
+        "x": 2,
+        "y": -12,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Cloniprazepam",
+        "x": -2,
+        "y": -14,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Clotiazepam",
+        "x": -1,
+        "y": -9,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Cloxazolam",
+        "x": 6,
+        "y": -18,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "DOB",
+        "x": 1,
+        "y": -11,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Delorazepam",
+        "x": 1,
+        "y": -7,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Deschloroetizolam",
+        "x": -2,
+        "y": -6,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Desmethylflunitrazepam",
+        "x": -3,
+        "y": -8,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Diazepam",
+        "x": -3,
+        "y": -13,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Diclazepam",
+        "x": 4,
+        "y": -8,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Estazolam",
+        "x": 7,
+        "y": -17,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Etizolam",
+        "x": -3,
+        "y": -4,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flualprazolam",
+        "x": -2,
+        "y": -7,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flubromazepam",
+        "x": 1,
+        "y": -14,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flubromazolam",
+        "x": 6,
+        "y": -7,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flubrotizolam",
+        "x": 3,
+        "y": -9,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Fluclotizolam",
+        "x": 8,
+        "y": -15,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Fludiazepam (Erispan)",
+        "x": 4,
+        "y": -17,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flunitrazepam",
+        "x": -2,
+        "y": -13,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flunitrazolam",
+        "x": 1,
+        "y": -6,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flurazepam",
+        "x": -1,
+        "y": -14,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flutazolam",
+        "x": 3,
+        "y": -18,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Flutoprazepam",
+        "x": 2,
+        "y": -11,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Halazepam",
+        "x": 4,
+        "y": -6,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Ketazolam",
+        "x": 6,
+        "y": -11,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Lorazepam",
+        "x": -2,
+        "y": -9,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Lormetazepam",
+        "x": 7,
+        "y": -13,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Meclonazepam",
+        "x": -3,
+        "y": -7,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Medazepam",
+        "x": 8,
+        "y": -9,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Metaclazepam",
+        "x": -1,
+        "y": -16,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Metizolam",
+        "x": 3,
+        "y": -11,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Mexazolam",
+        "x": 0,
+        "y": -18,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Nifoxipam",
+        "x": 8,
+        "y": -11,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Nimetazepam",
+        "x": 4,
+        "y": -12,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Nitemazepam",
+        "x": 0,
+        "y": -12,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Nitrazepam",
+        "x": 0,
+        "y": -14,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Nitrazolam",
+        "x": 2,
+        "y": -7,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Nordazepam",
+        "x": 2,
+        "y": -5,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Oxazepam",
+        "x": 6,
+        "y": -8,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Oxazolam",
+        "x": -4,
+        "y": -10,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Phenazepam",
+        "x": -1,
+        "y": -8,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Pinazepam",
+        "x": 2,
+        "y": -15,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Pivoxazepam",
+        "x": 1,
+        "y": -18,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Pyrazolam",
+        "x": 1,
+        "y": -19,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Quazepam",
+        "x": 0,
+        "y": -6,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Scopolamine",
+        "x": 1,
+        "y": -4,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Temazepam",
+        "x": 7,
+        "y": -12,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Tetrazepam",
+        "x": -3,
+        "y": -12,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Triazolam",
+        "x": 4,
+        "y": -14,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Zolazepam",
+        "x": 8,
+        "y": -18,
+        "color": "#20B2AA",
+        "category": "Benzodiazepines",
+        "classes": [
+            "Benzodiazepines",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Pentobarbital",
+        "x": 1,
+        "y": -4,
+        "color": "#B22222",
+        "category": "Barbiturates",
+        "classes": [
+            "Barbiturates",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Phenobarbital",
+        "x": 3,
+        "y": -4,
+        "color": "#B22222",
+        "category": "Barbiturates",
+        "classes": [
+            "Barbiturates",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Secobarbital",
+        "x": 3,
+        "y": -3,
+        "color": "#B22222",
+        "category": "Barbiturates",
+        "classes": [
+            "Barbiturates",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "2-FDCK",
+        "x": -8,
+        "y": 12,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "2-MeO-Ketamine (Methoxyketamine)",
+        "x": -10,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-Cl-PCP",
+        "x": -12,
+        "y": 7,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-Fl-PCP",
+        "x": -10,
+        "y": 12,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-HO-PCP",
+        "x": -8,
+        "y": 6,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-Me-PCP",
+        "x": -16,
+        "y": 11,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-MeO-PCE",
+        "x": -14,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-MeO-PCMo",
+        "x": -8,
+        "y": 11,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-MeO-PCP",
+        "x": -16,
+        "y": 14,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "3-MeO-PCPR",
+        "x": -13,
+        "y": 4,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "4-MeO-PCP",
+        "x": -17,
+        "y": 6,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Bromoketamine",
+        "x": -16,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "DMXE",
+        "x": -14,
+        "y": 7,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "DXM (DMO, Dex, Robitussin, Delsym, DexAlone, Duract, robo, syrup, robotussin)",
+        "x": -14,
+        "y": 11,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Deschloroketamine",
+        "x": -14,
+        "y": 12,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Dextromethorphan",
+        "x": -18,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Dimenhydrinate",
+        "x": -10,
+        "y": 7,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Diphenidine",
+        "x": -10,
+        "y": 10,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Ephenidine",
+        "x": -18,
+        "y": 12,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Ethketamine",
+        "x": -7,
+        "y": 12,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Fluorolintane",
+        "x": -7,
+        "y": 7,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "HXE",
+        "x": -10,
+        "y": 11,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Halothane",
+        "x": -19,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Ketamine",
+        "x": -12,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Ketamine Precursor A",
+        "x": -8,
+        "y": 9,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "MK-801",
+        "x": -11,
+        "y": 10,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "MXE",
+        "x": -13,
+        "y": 6,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "MXM",
+        "x": -16,
+        "y": 3,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "MXiPr",
+        "x": -15,
+        "y": 5,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Methoxyketamine",
+        "x": -14,
+        "y": 2,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "N-Ethyl-Ketamine",
+        "x": -11,
+        "y": 5,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "O-PCE",
+        "x": -17,
+        "y": 5,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "PCE",
+        "x": -10,
+        "y": 14,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "PCP",
+        "x": -12,
+        "y": 12,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "PRE-084",
+        "x": -10,
+        "y": 6,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Rolicyclidine",
+        "x": -12,
+        "y": 3,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Tiletamine",
+        "x": -13,
+        "y": 7,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "pCPP",
+        "x": -16,
+        "y": 6,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Arylcyclohexylamines"
+        ]
+    },
+    {
+        "name": "Methoxphenidine",
+        "x": -18,
+        "y": 5,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives",
+            "Diarylethylamines"
+        ]
+    },
+    {
+        "name": "N2O",
+        "x": -9,
+        "y": 5,
+        "color": "#808080",
+        "category": "Dissociatives",
+        "classes": [
+            "Dissociatives"
+        ]
+    },
+    {
+        "name": "Mirtazapine",
+        "x": -6,
+        "y": 18,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Antidepressants",
+            "Piperazinoazepine",
+            "Deliriant",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Promethazine",
+        "x": -8,
+        "y": 19,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Phenothiazine",
+            "Deliriant",
+            "Depressant"
+        ]
+    },
+    {
+        "name": "Benzydamine",
+        "x": -6,
+        "y": 19,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Stimulants",
+            "Deliriant",
+            "Indazole"
+        ]
+    },
+    {
+        "name": "Datura",
+        "x": -6,
+        "y": 17,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Deliriant"
+        ]
+    },
+    {
+        "name": "Diphenhydramine",
+        "x": -4,
+        "y": 17,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Deliriant",
+            "Ethanolamine#1#"
+        ]
+    },
+    {
+        "name": "Memantine",
+        "x": -8,
+        "y": 21,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Dissociatives",
+            "Deliriant",
+            "Adamantanes"
+        ]
+    },
+    {
+        "name": "Myristicin",
+        "x": -5,
+        "y": 19,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Deliriant",
+            "Phenylpropenes"
+        ]
+    },
+    {
+        "name": "Salvia",
+        "x": -6,
+        "y": 13,
+        "color": "#A52A2A",
+        "category": "Deliriants",
+        "classes": [
+            "Salvinorin",
+            "Hallucinogens",
+            "Terpenoid"
+        ]
+    }
+]

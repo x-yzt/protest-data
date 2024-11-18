@@ -1,0 +1,545 @@
+{
+    "(beta)-Naphyrone": {
+        "Caffeine ratio avarage": "1,130630631"
+    },
+    "1P-LSD": {
+        "Caffeine ratio avarage": "1,132075472"
+    },
+    "2-AI": {
+        "Caffeine ratio avarage": "0,636708221"
+    },
+    "2-FA (2-Fluoro-Amphetamine)": {
+        "Caffeine ratio avarage": "0,71"
+    },
+    "2-FMA (2-Fluoro-Methamphetamine)": {
+        "Caffeine ratio avarage": "0,72"
+    },
+    "2-ME-DMT": {
+        "Caffeine ratio avarage": "0,650231292"
+    },
+    "25B-NBOMe": {
+        "Caffeine ratio avarage": "0,962810847"
+    },
+    "25C-NBOMe": {
+        "Caffeine ratio avarage": "0,991564234"
+    },
+    "25D-NBOMe": {
+        "Caffeine ratio avarage": "0,906882107"
+    },
+    "25G-NBOMe": {
+        "Caffeine ratio avarage": "0,8614486"
+    },
+    "25I-NBOMe": {
+        "Caffeine ratio avarage": "0,972654689"
+    },
+    "25IP-NBOMe": {
+        "Caffeine ratio avarage": "0,938147108"
+    },
+    "25N-NBOMe": {
+        "Caffeine ratio avarage": "0,93462104"
+    },
+    "25P-NBOH": {
+        "Caffeine ratio avarage": "1,02690583"
+    },
+    "25P-NBOMe": {
+        "Caffeine ratio avarage": "1,024559046"
+    },
+    "2C-B": {
+        "Caffeine ratio avarage": "0,451518905"
+    },
+    "2C-B-fly": {
+        "Caffeine ratio avarage": "0,459283506"
+    },
+    "2C-C": {
+        "Caffeine ratio avarage": "0,546181026"
+    },
+    "2C-D": {
+        "Caffeine ratio avarage": "0,483244708"
+    },
+    "2C-E": {
+        "Caffeine ratio avarage": "0,496242155"
+    },
+    "2C-I": {
+        "Caffeine ratio avarage": "0,48653328"
+    },
+    "2C-IP": {
+        "Caffeine ratio avarage": "0,490962701"
+    },
+    "2C-P": {
+        "Caffeine ratio avarage": "0,49846961"
+    },
+    "2C-T-2": {
+        "Caffeine ratio avarage": "0,426973048"
+    },
+    "2C-T-4": {
+        "Caffeine ratio avarage": "0,654545455"
+    },
+    "3-FMC (3-Fluoromethcathinone)": {
+        "Caffeine ratio avarage": "1,224489796"
+    },
+    "3-FPM (3-Fluorophenmetrazine)": {
+        "Caffeine ratio avarage": "0,893796993"
+    },
+    "3-MeO-PCE": {
+        "Caffeine ratio avarage": "0,941605839"
+    },
+    "3-MeO-PCP": {
+        "Caffeine ratio avarage": "0,915887851"
+    },
+    "3-MMC (Methedrone)": {
+        "Caffeine ratio avarage": "0,92"
+    },
+    "3,4-CTMP": {
+        "Caffeine ratio avarage": "0,9"
+    },
+    "3C-E": {
+        "Caffeine ratio avarage": "0,58164071"
+    },
+    "3C-P": {
+        "Caffeine ratio avarage": "0,585605313"
+    },
+    "4-AcO-DALT": {
+        "Caffeine ratio avarage": "1,021933993"
+    },
+    "4-AcO-DIPT": {
+        "Caffeine ratio avarage": "0,879803493"
+    },
+    "4-AcO-DMT": {
+        "Caffeine ratio avarage": "0,59190052"
+    },
+    "4-AcO-MET": {
+        "Caffeine ratio avarage": "0,618887997"
+    },
+    "4-BMC": {
+        "Caffeine ratio avarage": "0,996021329"
+    },
+    "4-CEC": {
+        "Caffeine ratio avarage": ""
+    },
+    "4-CMC": {
+        "Caffeine ratio avarage": "1,002"
+    },
+    "4-EMC": {
+        "Caffeine ratio avarage": "0,925811966"
+    },
+    "4-FA (4-Fluoro-Amphetamine)": {
+        "Caffeine ratio avarage": "0,67"
+    },
+    "4-FBF (4-fluoro-butyr-fentanyl)": {
+        "Caffeine ratio avarage": "1,210576923"
+    },
+    "4-FMA (4-Fluoro-Methamphetamine)": {
+        "Caffeine ratio avarage": "0,63"
+    },
+    "4-FMB": {
+        "Caffeine ratio avarage": "1,319733676"
+    },
+    "4-FMP": {
+        "Caffeine ratio avarage": "0,648148148"
+    },
+    "4-FPD": {
+        "Caffeine ratio avarage": "1,178571429"
+    },
+    "4-HO-DET": {
+        "Caffeine ratio avarage": "0,666321911"
+    },
+    "4-HO-DIPT": {
+        "Caffeine ratio avarage": "0,704079685"
+    },
+    "4-HO-MET": {
+        "Caffeine ratio avarage": "0,6"
+    },
+    "4-HO-MIPT": {
+        "Caffeine ratio avarage": "0,634644124"
+    },
+    "4-MEC": {
+        "Caffeine ratio avarage": "1,018147433"
+    },
+    "4-MeO-PCP": {
+        "Caffeine ratio avarage": "0,796083827"
+    },
+    "4-MMC (Mephedrone)": {
+        "Caffeine ratio avarage": "0,93"
+    },
+    "5-APB HCl": {
+        "Caffeine ratio avarage": "0,804347826"
+    },
+    "5-APB Succanate": {
+        "Caffeine ratio avarage": "0,804347826"
+    },
+    "5-APDB": {
+        "Caffeine ratio avarage": "0,62787684"
+    },
+    "5-IAI": {
+        "Caffeine ratio avarage": "0,557318039"
+    },
+    "5-MAPB": {
+        "Caffeine ratio avarage": "0,448541774"
+    },
+    "5-MeO-AMT": {
+        "Caffeine ratio avarage": "0,69635298"
+    },
+    "5-MeO-DALT": {
+        "Caffeine ratio avarage": "1,153811473"
+    },
+    "5-MeO-DMT (Freebase)": {
+        "Caffeine ratio avarage": "0,483636676"
+    },
+    "5-MeO-DMT (HCl)": {
+        "Caffeine ratio avarage": "0,483636676"
+    },
+    "5-MeO-MIPT": {
+        "Caffeine ratio avarage": "0,605484806"
+    },
+    "5-MeO-MIPT HCl": {
+        "Caffeine ratio avarage": "0,605484806"
+    },
+    "5F-AKB-48": {
+        "Caffeine ratio avarage": "1,22921297"
+    },
+    "6-APB": {
+        "Caffeine ratio avarage": "0,656049383"
+    },
+    "6-APB (green pill)": {
+        "Caffeine ratio avarage": "0,656049383"
+    },
+    "6-APB (Succanate)": {
+        "Caffeine ratio avarage": "0,656049383"
+    },
+    "6-APDB": {
+        "Caffeine ratio avarage": "1,339341018"
+    },
+    "6-EAPB": {
+        "Caffeine ratio avarage": "0,592362983"
+    },
+    "AB-OO1": {
+        "Caffeine ratio avarage": "1,217316017"
+    },
+    "Acetylfentanyl": {
+        "Caffeine ratio avarage": "1,178288524"
+    },
+    "AL-LAD": {
+        "Caffeine ratio avarage": "1,168076441"
+    },
+    "ALD-52": {
+        "Caffeine ratio avarage": "1,030674847"
+    },
+    "Allylescaline": {
+        "Caffeine ratio avarage": "0,317278648"
+    },
+    "Alpha-PHP": {
+        "Caffeine ratio avarage": "1,160714286"
+    },
+    "Alpha-PPP": {
+        "Caffeine ratio avarage": "1,03173913"
+    },
+    "Alpha-PVP": {
+        "Caffeine ratio avarage": "1,012826087"
+    },
+    "Alpha-PVT": {
+        "Caffeine ratio avarage": ""
+    },
+    "Alprazolam": {
+        "Caffeine ratio avarage": "0,909090909"
+    },
+    "AM-2201": {
+        "Caffeine ratio avarage": "1,062426304"
+    },
+    "AM-2233": {
+        "Caffeine ratio avarage": "0,998564397"
+    },
+    "AM-7921": {
+        "Caffeine ratio avarage": "0,960931039"
+    },
+    "Amphetamine": {
+        "Caffeine ratio avarage": "0,74"
+    },
+    "Amphetamine (aderall)": {
+        "Caffeine ratio avarage": "0,74"
+    },
+    "AMT": {
+        "Caffeine ratio avarage": "0,59"
+    },
+    "bk-2C-B": {
+        "Caffeine ratio avarage": "1,190196928"
+    },
+    "bk-EPDP": {
+        "Caffeine ratio avarage": "1,178571429"
+    },
+    "bromodragonfly": {
+        "Caffeine ratio avarage": "0,787755102"
+    },
+    "Buphedrone": {
+        "Caffeine ratio avarage": "1"
+    },
+    "Buprenorphine": {
+        "Caffeine ratio avarage": "1,111866925"
+    },
+    "Butylone": {
+        "Caffeine ratio avarage": "1"
+    },
+    "Butyrfentanyl": {
+        "Caffeine ratio avarage": "1,226023392"
+    },
+    "BZP": {
+        "Caffeine ratio avarage": "1,998176219"
+    },
+    "Caffeine": {
+        "Caffeine ratio avarage": "1"
+    },
+    "Cocaine": {
+        "Caffeine ratio avarage": "0,95"
+    },
+    "Codeine": {
+        "Caffeine ratio avarage": "0,891304348"
+    },
+    "Deschloroketamine": {
+        "Caffeine ratio avarage": "1,018897444"
+    },
+    "Diclazepam": {
+        "Caffeine ratio avarage": "1,180116959"
+    },
+    "Dimethocaine": {
+        "Caffeine ratio avarage": "1"
+    },
+    "Dimethyl-Cathinone": {
+        "Caffeine ratio avarage": "0,944444444"
+    },
+    "Diphenidine": {
+        "Caffeine ratio avarage": "1,07740903"
+    },
+    "DMT": {
+        "Caffeine ratio avarage": "0,56202112"
+    },
+    "DOB": {
+        "Caffeine ratio avarage": "0,616205593"
+    },
+    "DOC": {
+        "Caffeine ratio avarage": "0,628341977"
+    },
+    "DOI": {
+        "Caffeine ratio avarage": "0,646706683"
+    },
+    "DOiPR": {
+        "Caffeine ratio avarage": "0,610859728"
+    },
+    "DOM": {
+        "Caffeine ratio avarage": "0,636363636"
+    },
+    "DPT": {
+        "Caffeine ratio avarage": "0,966245434"
+    },
+    "DXM": {
+        "Caffeine ratio avarage": "0,59"
+    },
+    "Ephedrin": {
+        "Caffeine ratio avarage": "0,509803922"
+    },
+    "Escaline": {
+        "Caffeine ratio avarage": "0,413599476"
+    },
+    "Escopolamine": {
+        "Caffeine ratio avarage": "0,932847313"
+    },
+    "Ethyl-Buphedrone": {
+        "Caffeine ratio avarage": "1,785714286"
+    },
+    "Ethylcathinone": {
+        "Caffeine ratio avarage": "1,004761905"
+    },
+    "Ethylone": {
+        "Caffeine ratio avarage": "1,232151835"
+    },
+    "Ethylphenidate": {
+        "Caffeine ratio avarage": "1,179545455"
+    },
+    "Fentanyl": {
+        "Caffeine ratio avarage": "1,207893773"
+    },
+    "Flubromazepam": {
+        "Caffeine ratio avarage": "1,15"
+    },
+    "Fumaric Acid": {
+        "Caffeine ratio avarage": "1,481355676"
+    },
+    "Furanylfentanyl": {
+        "Caffeine ratio avarage": "1,158698092"
+    },
+    "Gramine": {
+        "Caffeine ratio avarage": "0,405774583"
+    },
+    "Harmaline": {
+        "Caffeine ratio avarage": "0,758695652"
+    },
+    "Harmine": {
+        "Caffeine ratio avarage": "1,108438611"
+    },
+    "Heroin": {
+        "Caffeine ratio avarage": "1,130494505"
+    },
+    "Hex-en": {
+        "Caffeine ratio avarage": "1,160714286"
+    },
+    "Hydrocodone": {
+        "Caffeine ratio avarage": "0,454545455"
+    },
+    "IAP": {
+        "Caffeine ratio avarage": "0,53125"
+    },
+    "Ibuprofen": {
+        "Caffeine ratio avarage": "1,244438455"
+    },
+    "JWH-073": {
+        "Caffeine ratio avarage": "1,13269073"
+    },
+    "JWH-250": {
+        "Caffeine ratio avarage": "1,11824263"
+    },
+    "Ketamine": {
+        "Caffeine ratio avarage": "0,99"
+    },
+    "Levamisol": {
+        "Caffeine ratio avarage": "1"
+    },
+    "Lidocaine": {
+        "Caffeine ratio avarage": "1,03034188"
+    },
+    "LSD (Blotter)": {
+        "Caffeine ratio avarage": "1,009208714"
+    },
+    "LSD (Drop)": {
+        "Caffeine ratio avarage": "1,009208714"
+    },
+    "LSD (Microdot)": {
+        "Caffeine ratio avarage": "1,009208714"
+    },
+    "MAM-2201": {
+        "Caffeine ratio avarage": "1,154545455"
+    },
+    "MCPP": {
+        "Caffeine ratio avarage": "0,597880372"
+    },
+    "MDA": {
+        "Caffeine ratio avarage": "0,663061225"
+    },
+    "MDAI": {
+        "Caffeine ratio avarage": "0,578312416"
+    },
+    "MDMA": {
+        "Caffeine ratio avarage": "0,527483045"
+    },
+    "MDPV": {
+        "Caffeine ratio avarage": "1,08"
+    },
+    "Mescaline (Freebase)": {
+        "Caffeine ratio avarage": "0,380715416"
+    },
+    "Mescaline (Fumarate)": {
+        "Caffeine ratio avarage": "0,380715416"
+    },
+    "Methamphetamine": {
+        "Caffeine ratio avarage": "0,614"
+    },
+    "Methylone": {
+        "Caffeine ratio avarage": "0,99"
+    },
+    "Methylphenidate": {
+        "Caffeine ratio avarage": "1,033887229"
+    },
+    "Metoclopramide": {
+        "Caffeine ratio avarage": "0,790069686"
+    },
+    "Mexedrone": {
+        "Caffeine ratio avarage": ""
+    },
+    "MiPT": {
+        "Caffeine ratio avarage": "0,777372262"
+    },
+    "MPHP": {
+        "Caffeine ratio avarage": ""
+    },
+    "MPPP": {
+        "Caffeine ratio avarage": "0,978163993"
+    },
+    "MXE": {
+        "Caffeine ratio avarage": "1,071745297"
+    },
+    "MXP": {
+        "Caffeine ratio avarage": "0,907619048"
+    },
+    "N-Ethyl-Ketamine": {
+        "Caffeine ratio avarage": "1,079439252"
+    },
+    "N-Me-4'4-difluoro-modafinil": {
+        "Caffeine ratio avarage": "0,833250805"
+    },
+    "NEP": {
+        "Caffeine ratio avarage": "1,178571429"
+    },
+    "NMT": {
+        "Caffeine ratio avarage": "0,268471856"
+    },
+    "O-Desmethyltramadol": {
+        "Caffeine ratio avarage": "1,124754077"
+    },
+    "O-PCE": {
+        "Caffeine ratio avarage": "0,9473479297"
+    },
+    "Oxycodone": {
+        "Caffeine ratio avarage": "0,933216783"
+    },
+    "paracetamol": {
+        "Caffeine ratio avarage": "1,157631258"
+    },
+    "Penthedrone": {
+        "Caffeine ratio avarage": "1,240384615"
+    },
+    "Phenacetin": {
+        "Caffeine ratio avarage": "1,240826873"
+    },
+    "Phenetylamine": {
+        "Caffeine ratio avarage": "0,660347985"
+    },
+    "PMA": {
+        "Caffeine ratio avarage": "0,479166667"
+    },
+    "PMEA": {
+        "Caffeine ratio avarage": "0,840625"
+    },
+    "PMMA": {
+        "Caffeine ratio avarage": "0,645833333"
+    },
+    "Procaine": {
+        "Caffeine ratio avarage": "0,906708595"
+    },
+    "Proscaline": {
+        "Caffeine ratio avarage": "0,454761103"
+    },
+    "PV8": {
+        "Caffeine ratio avarage": "1,163286713"
+    },
+    "Sunifiram": {
+        "Caffeine ratio avarage": "1,142960813"
+    },
+    "Tetracaine": {
+        "Caffeine ratio avarage": "0,949074074"
+    },
+    "Tetrahydroharmine": {
+        "Caffeine ratio avarage": "0,65490566"
+    },
+    "Tetrahydropalmatine": {
+        "Caffeine ratio avarage": "1,209542816"
+    },
+    "TMA": {
+        "Caffeine ratio avarage": "0,755760368"
+    },
+    "TMA-2": {
+        "Caffeine ratio avarage": "0,53649635"
+    },
+    "U-47700": {
+        "Caffeine ratio avarage": "1,151260504"
+    },
+    "U-49900": {
+        "Caffeine ratio avarage": "1,198529412"
+    }
+}
